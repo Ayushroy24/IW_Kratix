@@ -1,0 +1,5 @@
+<!-- Inside the <header> section of your HTML -->
+<div class="search-bar">
+    <input type="text" id="searchInput" placeholder="Search for products...">
+    <button onclick="search()">Search</button>
+</div>
